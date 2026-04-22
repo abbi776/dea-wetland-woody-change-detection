@@ -74,3 +74,45 @@ Identifies woody encroachment and retreat across wetlands using fixed 5-year int
 scripts/02_temporal_stability_mask.ipynb
 ```
 Screens transitions using majority-vote stability around baseline and target years.
+
+3️⃣ **Apply persistent-water mask using DEA Water Observations**
+All wetlands:
+```text
+scripts/03a_persistent_water_mask_all_wetlands.ipynb
+```
+Case-study wetlands:
+```text
+scripts/03b_persistent_water_mask_case_study.ipynb
+```
+Removes transitions associated with persistently inundated areas and quantifies encroachment and retreat before and after masking.
+
+4️⃣ **Assess EVI plausibility**
+```text
+scripts/04_evi_plausibility.ipynb
+```
+Evaluates whether mapped woody transitions are supported by Landsat-derived seasonal EVI change.
+
+5️⃣ **Wetlands Insight Tool case study**
+```text
+scripts/05_wetlands_insight_tool_case_study.ipynb
+```
+Generates WIT time-series outputs and normalized wetland composition plots for a selected case-study wetland.
+
+6️⃣ **Plot encroachment and retreat trends**
+```text
+scripts/06_plot_encroachment_retreat_trends.ipynb
+```
+Produces sub-region trend plots for 5-year intervals and hydrological periods.
+
+
+7️⃣ **Plot river gauge water-level time series**
+```text
+scripts/07_plot_river_gauge_water_level.ipynb
+```
+Generates river gauge plots used for hydrological interpretation.
+
+8️⃣ **Plot EVI hexbin comparison**
+```text
+scripts/08_plot_evi_hexbin.ipynb
+```
+Produces the hexbin plot comparing median ΔEVI for encroachment and retreat.

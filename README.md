@@ -66,5 +66,11 @@ The workflow is organised into **numbered notebooks** for clarity:
 1️⃣ **Detect woody change from DEA Land Cover**
 ```text
 scripts/01_detect_woody_change_from_dea_land_cover.ipynb
-
+```
 Identifies woody encroachment and retreat across wetlands using fixed 5-year intervals and custom hydrological epochs.
+
+2️⃣ **Apply temporal stability mask**
+```text
+scripts/02_temporal_stability_mask.ipynb
+```
+Screens transitions using majority-vote stability around baseline and target years.

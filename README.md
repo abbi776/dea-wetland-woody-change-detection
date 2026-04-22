@@ -117,3 +117,27 @@ Generates river gauge plots used for hydrological interpretation.
 scripts/08_plot_evi_hexbin.ipynb
 ```
 Produces the hexbin plot comparing median ΔEVI for encroachment and retreat.
+
+---
+
+## 📁 Data & Results Organization
+Since raw rasters and outputs are large, they are **not stored in this repo**.  
+Organize your local project like this:
+
+```
+data/
+  ├── wetland boundaries/     # ANAE wetland shapefiles and case-study polygons
+  ├── river gauge/            # River gauge CSVs or related hydrological data
+  └── other_inputs/           # Any additional local input files
+
+results/
+  ├── step_1/
+  ├── step_2/
+  ├── step_3/
+  ├── step_4/
+  ├── step_5/
+  └── figures/
+```
+⚠️ Note: `.gitignore` excludes these outputs so they don’t get pushed to GitHub.
+
+---

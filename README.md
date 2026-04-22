@@ -157,13 +157,8 @@ results/
 ---
 
 ## 🧑‍🤝‍🧑 Contributing
-**Pull requests and suggestions are welcome.**
-Areas that would particularly benefit from contributions include:
-
-- Expanding the workflow to additional wetlands and floodplain systems
-- Adding new SAR texture and polarization feature formulations
-- Exploring deep learning approaches for classification and feature fusion
-- Evaluating transferability through cross-site benchmarking and replication studies
+Contributions are welcome.
+Please open an issue or submit a pull request if you would like to improve workflow efficiency, extend the notebooks to additional wetlands, or add new validation and visualization steps.
 
 ---
 

@@ -76,6 +76,7 @@ scripts/02_temporal_stability_mask.ipynb
 Screens transitions using majority-vote stability around baseline and target years.
 
 3️⃣ **Apply persistent-water mask using DEA Water Observations**
+
 All wetlands:
 ```text
 scripts/03a_persistent_water_mask_all_wetlands.ipynb

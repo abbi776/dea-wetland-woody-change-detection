@@ -149,7 +149,7 @@ results/
 - EVI plausibility summary tables.
 - Wetlands Insight Tool CSV and plot outputs.
 - Publication-ready figures including:
- -  encroachment and retreat trend plots
- -  river gauge plots
- -  EVI hexbin plots
+-    encroachment and retreat trend plots
+-    river gauge plots
+-    EVI hexbin plots
 ---

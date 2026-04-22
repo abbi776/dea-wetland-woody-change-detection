@@ -2,7 +2,7 @@
 
 🌿 Open-source workflow for detecting, screening, and validating woody vegetation change across floodplain wetlands using **Digital Earth Australia Land Cover, Water Observations, Landsat Surface Reflectance NBART, Wetlands Insight Tool outputs, ANAE wetland boundaries, and river gauge data for hydrological interpretation**.
 
-This repository contains all notebooks, environment requirements, and instructions needed to reproduce the analysis — from woody transition detection and screening to figure generation and case-study wetland interpretation.
+This repository contains all notebooks, environment requirements, and instructions needed to reproduce the analysis, from woody transition detection and screening to figure generation and case-study wetland interpretation.
 
 ---
 

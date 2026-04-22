@@ -157,8 +157,7 @@ results/
 ---
 
 ## 🧑‍🤝‍🧑 Contributing
-Contributions are welcome.
-
+Contributions are welcome!  
 Please open an issue or submit a pull request if you would like to improve workflow efficiency, extend the notebooks to additional wetlands, or add new validation and visualization steps.
 
 ---

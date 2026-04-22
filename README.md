@@ -40,3 +40,20 @@ dea-wetland-woody-change-detection/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+
+```
+---
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/abbi776/dea-wetland-woody-change-detection.git
+cd dea-wetland-woody-change-detection
+
+# Create a fresh environment (recommended)
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+
+# Install required packages
+pip install -r requirements.txt
+```

@@ -57,3 +57,12 @@ venv\Scripts\activate      # Windows
 # Install required packages
 pip install -r requirements.txt
 ```
+---
+
+## 🚀 Pipeline Steps
+
+The workflow is organised into **numbered notebooks** for clarity:
+
+1️⃣ **Detect woody change from DEA Land Cover**
+```text
+scripts/01_detect_woody_change_from_dea_land_cover.ipynb

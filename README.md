@@ -155,3 +155,25 @@ results/
     
 
 ---
+
+## 🧑‍🤝‍🧑 Contributing
+**Pull requests and suggestions are welcome.**
+Areas that would particularly benefit from contributions include:
+
+- Expanding the workflow to additional wetlands and floodplain systems
+- Adding new SAR texture and polarization feature formulations
+- Exploring deep learning approaches for classification and feature fusion
+- Evaluating transferability through cross-site benchmarking and replication studies
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📧 Contact
+For questions or collaboration:  
+**Abdullah Toqeer**  
+PhD Candidate, Charles Sturt University  
+Email: *toqeerabdullah776@gmail.com*  

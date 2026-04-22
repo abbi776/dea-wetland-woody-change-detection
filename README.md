@@ -152,4 +152,10 @@ results/
 -    encroachment and retreat trend plots
 -    river gauge plots
 -    EVI hexbin plots
+- Main Bullet Point
+  - First Sub-bullet (Indented 2-4 spaces)
+  - Second Sub-bullet
+    - Sub-sub-bullet (Indented further)
+- Another Main Point
+
 ---

@@ -1,0 +1,12 @@
+numpy
+pandas
+geopandas
+xarray
+rioxarray
+matplotlib
+rasterio
+datacube
+dask[distributed]
+jupyter
+notebook
+dea-tools

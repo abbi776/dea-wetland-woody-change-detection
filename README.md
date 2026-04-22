@@ -142,14 +142,14 @@ results/
 
 ---
 ## 📊 Outputs
-CSV summaries of woody transition statistics.
-Stability-filtered wetland summaries.
-Persistent-water mask summaries.
-Case-study rasters for selected wetlands.
-EVI plausibility summary tables.
-Wetlands Insight Tool CSV and plot outputs.
-Publication-ready figures including:
-encroachment and retreat trend plots
-river gauge plots
-EVI hexbin plots
+- CSV summaries of woody transition statistics.
+- Stability-filtered wetland summaries.
+- Persistent-water mask summaries.
+- Case-study rasters for selected wetlands.
+- EVI plausibility summary tables.
+- Wetlands Insight Tool CSV and plot outputs.
+- Publication-ready figures including:
+-- encroachment and retreat trend plots
+-- river gauge plots
+-- EVI hexbin plots
 ---

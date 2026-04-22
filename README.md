@@ -156,6 +156,14 @@ results/
 
 ---
 
+## 🙏 Attribution & Credits
+
+The notebook ```text
+05_wetlands_insight_tool_case_study.ipynb
+``` is adapted from Digital Earth Australia example notebooks, with modifications for the case-study wetland, output tables, and figure generation used in this project.
+
+---
+
 ## 🧑‍🤝‍🧑 Contributing
 Contributions are welcome!  
 Please open an issue or submit a pull request if you would like to improve workflow efficiency, extend the notebooks to additional wetlands, or add new validation and visualization steps.

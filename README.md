@@ -56,6 +56,7 @@ venv\Scripts\activate      # Windows
 
 # Install required packages
 pip install -r requirements.txt
+```
 Some notebooks are designed to run in a DEA Sandbox / Open Data Cube-compatible environment with dea_tools available.
 
 ---
